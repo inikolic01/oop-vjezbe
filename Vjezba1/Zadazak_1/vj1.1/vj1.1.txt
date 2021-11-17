@@ -1,0 +1,15 @@
+﻿'vj1.1.exe' (Win32): Loaded 'C:\Users\igorn\source\repos\vj1.1\x64\Debug\vj1.1.exe'. Symbols loaded.
+'vj1.1.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'vj1.1.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'vj1.1.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'vj1.1.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
+'vj1.1.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'vj1.1.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
+'vj1.1.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+The thread 0x3f74 has exited with code 0 (0x0).
+'vj1.1.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'vj1.1.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+'vj1.1.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. 
+The thread 0x1d14 has exited with code 0 (0x0).
+The thread 0x3b38 has exited with code 0 (0x0).
+The program '[21508] vj1.1.exe' has exited with code 0 (0x0).
