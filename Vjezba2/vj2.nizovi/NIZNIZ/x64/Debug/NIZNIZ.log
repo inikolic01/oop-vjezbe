@@ -1,3 +1,0 @@
-﻿  Source.cpp
-C:\Users\igorn\source\repos\NIZNIZ\NIZNIZ\Source.cpp(40,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
-  NIZNIZ.vcxproj -> C:\Users\igorn\source\repos\NIZNIZ\x64\Debug\NIZNIZ.exe
