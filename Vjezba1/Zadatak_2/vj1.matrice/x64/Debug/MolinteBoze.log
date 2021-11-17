@@ -1,4 +1,0 @@
-﻿  Source.cpp
-C:\Users\igorn\source\repos\MolinteBoze\MolinteBoze\Source.cpp(38,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Users\igorn\source\repos\MolinteBoze\MolinteBoze\Source.cpp(48,19): error C2664: 'std::ios_base &std::right(std::ios_base &)': cannot convert argument 1 from 'int' to 'std::ios_base &'
-C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.30.30704\include\ios(264,37): message : see declaration of 'std::right'
