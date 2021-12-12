@@ -1,4 +1,0 @@
-﻿  Source.cpp
-C:\Users\igorn\source\repos\test\test\Source.cpp(19,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\igorn\source\repos\test\test\Source.cpp(30,12): warning C4326: return type of 'main' should be 'int' instead of 'void'
-  test.vcxproj -> C:\Users\igorn\source\repos\test\x64\Debug\test.exe

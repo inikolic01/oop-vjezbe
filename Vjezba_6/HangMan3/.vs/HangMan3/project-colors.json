@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "edde5b11-132b-4c59-868a-193c412acedb": {
+      "ProjectGuid": "edde5b11-132b-4c59-868a-193c412acedb",
+      "DisplayName": "HangMan3",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
